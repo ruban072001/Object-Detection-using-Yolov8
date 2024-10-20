@@ -1,0 +1,10 @@
+# Path to the dataset directory
+path: "C:/Users/KIRUBA/Documents/ruban"
+
+# Training and validation directories
+train: "images"
+val: "images"
+
+# Classes
+names:
+    0: Ruban
